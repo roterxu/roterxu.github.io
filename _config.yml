@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: roterxu@gmail.com
 description: "Every failure is leading towards success."
 keyword: "XJ, XJ Blog, 许洁的博客, 许洁, xujie,mysql,linux,java"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://roterxu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/roterxu/roterxu.github.io.git" # you code repository
 
@@ -19,10 +19,10 @@ sidebar-avatar: /img/xujie.jpg      # use absolute URL, seeing it's used in both
 # SNS settings
 RSS: false
 # weibo_username:     xujie
-zhihu_username:     #qiubaiying
-github_username:    #qiubaiying
-facebook_username:  #baiying.qiu.7
-jianshu_username:   #e71990ada2fd
+zhihu_username:
+github_username:
+facebook_username:
+jianshu_username:
 #twitter_username:   qiubaiying
 
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 7f17bead58b32d5aea4e                            #生成的clientID
-  clientSecret: 0c11dbe2acb73033668ec31190c82dcd16916e4f    #生成的clientSecret
+  clientID: b5b43a60f41f47a61156                            #生成的clientID
+  clientSecret: a16f68c14ef9c9af714a2f9c5c8d847d7e64734a    #生成的clientSecret
   repo: roterxu.github.io    #仓库名称
-  owner: xujie    #github用户名
-  admin: xujie
+  owner: roterxu    #github用户名
+  admin: roterxu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
