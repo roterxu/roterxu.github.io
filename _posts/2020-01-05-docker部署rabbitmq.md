@@ -10,8 +10,6 @@ tags:                               #标签
     - docker
 ---
 
-## Hey
->这是我的第一篇博客。
 
 1:拉取rabbitmq镜像
     
