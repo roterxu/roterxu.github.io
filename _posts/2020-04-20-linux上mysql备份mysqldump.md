@@ -16,4 +16,7 @@ tags:                               #标签
     
     mysqldump -hip -uroot -Pport -p --single-transaction --all-databases --master-data > all.sql
     
+    mysqldump 备份数据库的时候的添加 --single-transaction参数避免锁表 
+    
+    
 
