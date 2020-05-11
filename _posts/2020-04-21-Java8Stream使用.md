@@ -28,8 +28,3 @@ tags:                               #标签
     List<User> userList=new ArrayList();
     Map<String, List<User>> userMap = userList.stream().filter(u -> StringUtils.isNotBlank(u.getUserName)).collect(Collectors.groupingBy(u -> u.getPhone()));
     filter里面时过滤条件 不符条件的背剔除
-    
-    
-    
-
-    
