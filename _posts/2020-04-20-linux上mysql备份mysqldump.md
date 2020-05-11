@@ -2,7 +2,7 @@
 layout:     post                    # 使用的布局（不需要改）
 title:      mysqldump备份数据库              # 标题 
 subtitle:   MySQL dump
-date:       2019/04/20             # 时间
+date:       2020/04/20             # 时间
 author:     XJ                      # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
